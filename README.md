@@ -3,7 +3,8 @@
 
 
 
-- 🌱 I’m currently learning *Python Full Stack Course*
+- 🌱 I’m currently learning *Software Testing (Automation)*
+-  I have completed *Python Full Stack Course*
 
 - 📫 How to reach me **shilpayakkeli@gmail.com**
 
